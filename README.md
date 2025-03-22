@@ -5,6 +5,4 @@ This project generates personalized newsletters for users based on their interes
 
 ## Setup
 1. Clone the repository.
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+2. Read the file: "How to make it work.txt" to make it work  
