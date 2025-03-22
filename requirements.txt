@@ -1,0 +1,8 @@
+feedparser
+spacy
+nltk
+markdown
+requests
+scikit-learn
+streamlit
+pillow

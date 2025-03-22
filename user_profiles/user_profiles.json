@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "name": "Alex Parker",
+      "interests": ["AI", "cybersecurity", "blockchain", "startups", "programming"],
+      "sources": ["TechCrunch", "Wired Tech", "Ars Technica", "MIT Tech Review"]
+    },
+    {
+      "name": "Priya Sharma",
+      "interests": ["global markets", "startups", "fintech", "cryptocurrency", "economics"],
+      "sources": ["Bloomberg", "Financial Times", "Forbes", "CoinDesk"]
+    },
+    {
+      "name": "Marco Rossi",
+      "interests": ["football", "F1", "NBA", "Olympic sports", "esports"],
+      "sources": ["ESPN", "BBC Sport", "Sky Sports F1", "The Athletic"]
+    },
+    {
+      "name": "Lisa Thompson",
+      "interests": ["movies", "celebrity news", "TV shows", "music", "books"],
+      "sources": ["Variety", "Rolling Stone", "Billboard", "Hollywood Reporter"]
+    },
+    {
+      "name": "David Martinez",
+      "interests": ["space exploration", "AI", "biotech", "physics", "renewable energy"],
+      "sources": ["NASA", "Science Daily", "Nature", "Ars Technica Science"]
+    }
+  ],
+  "rss_feeds": {
+    "TechCrunch": "https://techcrunch.com/feed/",
+    "Wired Tech": "https://www.wired.com/feed/rss",
+    "Ars Technica": "https://feeds.arstechnica.com/arstechnica/index",
+    "MIT Tech Review": "https://www.technologyreview.com/feed/",
+    "Bloomberg": "https://www.bloomberg.com/feeds/podcasts/etf_report.xml",
+    "Financial Times": "https://www.ft.com/rss",
+    "Forbes": "https://www.forbes.com/innovation/feed/",
+    "CoinDesk": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "ESPN": "https://www.espn.com/espn/rss/news",
+    "BBC Sport": "http://feeds.bbci.co.uk/sport/rss.xml",
+    "Sky Sports F1": "https://www.skysports.com/rss/12040",
+    "The Athletic": "https://theathletic.com/rss/",
+    "Variety": "https://variety.com/feed/",
+    "Rolling Stone": "https://www.rollingstone.com/feed/",
+    "Billboard": "https://www.billboard.com/feed/",
+    "Hollywood Reporter": "https://www.hollywoodreporter.com/feed/",
+    "NASA": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "Science Daily": "https://www.sciencedaily.com/rss/all.xml",
+    "Nature": "https://www.nature.com/nature.rss",
+    "Ars Technica Science": "https://feeds.arstechnica.com/arstechnica/science"
+  }
+}

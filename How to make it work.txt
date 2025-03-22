@@ -1,0 +1,6 @@
+1 Open the folder in your runtime environment
+2 Create a new virtual environment using venv and tick requirements.txt 
+3 Install this using this code in terminal: python -m spacy download en_core_web_sm
+4 Then validate the installation: python -m spacy validate
+5 Run the main.py
+6 Run this code in your terminal/bash: streamlit run main.py

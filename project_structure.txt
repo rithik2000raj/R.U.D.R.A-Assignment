@@ -1,0 +1,18 @@
+personalized-newsletter/
+├── rss_fetcher/
+│   ├── __init__.py
+│   └── fetch_rss.py
+├── nlp_categorizer/
+│   ├── __init__.py
+│   └── categorize_articles.py
+├── newsletter_generator/
+│   ├── __init__.py
+│   └── generate_newsletter.py
+├── user_profiles/
+│   ├── __init__.py
+│   └── user_profiles.json
+├── assets/
+│   └── newspaper_icon.png
+├── main.py
+├── requirements.txt
+└── README.md
