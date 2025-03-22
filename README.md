@@ -5,4 +5,4 @@ This project generates personalized newsletters for users based on their interes
 
 ## Setup
 1. Clone the repository.
-2. Read the file: "How to make it work.txt" to make it work  
+2. Read the file: "How to make it work.txt" and follow the steps to make it work  
